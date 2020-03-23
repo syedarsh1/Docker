@@ -1,0 +1,5 @@
+server:
+  port: 8301
+spring:
+  application:
+    name: mdms-settings-mock
